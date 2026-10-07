@@ -3,7 +3,7 @@
 #### about
 17-year old software developer, backend systems & infrastructure. building scalable services, developer tooling, and exploring distributed systems.
 
-✉ ![brysinmakar@gmail.com](mailto:brysinmakar@gmail.com)
+✉ [brysinmakar@gmail.com](mailto:brysinmakar@gmail.com)
 
 ✈️ [t.me/mbrysin](https://t.me/mbrysin)
 
