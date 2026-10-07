@@ -2,7 +2,7 @@
 
 #### about
 17-year old software developer, backend systems & infrastructure. building scalable services, developer tooling, and exploring distributed systems.
-✉ ![Email|54](mailto:brysinmakar@gmail.com)
+✉ ![brysinmakar@gmail.com](mailto:brysinmakar@gmail.com)
 
 ---
 #### core skills
