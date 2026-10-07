@@ -5,7 +5,7 @@
 
 ✉ ![brysinmakar@gmail.com](mailto:brysinmakar@gmail.com)
 
-✈️ ![t.me/mbrysin](https://t.me/mbrysin)
+✈️ [t.me/mbrysin](https://t.me/mbrysin)
 
 ---
 #### core skills
