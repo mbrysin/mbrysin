@@ -5,10 +5,12 @@
 
 ✉ ![brysinmakar@gmail.com](mailto:brysinmakar@gmail.com)
 
+✈️ ![t.me/mbrysin](https://t.me/mbrysin)
+
 ---
 #### core skills
 
-![skillicons|697](https://skillicons.dev/icons?i=go,python,cpp,java,fastapi,html,css,postgresql,redis,docker,git,bash,linux%5C%60)
+![skillicons|697](https://skillicons.dev/icons?i=go,python,cpp,java,fastapi,html,css,postgresql,redis,docker,git,bash,linux)
 
 - **languages:** go + python + c++ + java + sql + html + css
 - **backend:** fastapi + rest api + http + rpc
