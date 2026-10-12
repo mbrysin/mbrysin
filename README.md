@@ -13,7 +13,7 @@
 ![skillicons|697](https://skillicons.dev/icons?i=go,python,cpp,java,fastapi,html,css,postgresql,redis,docker,git,bash,linux)
 
 - **languages:** go + python + c++ + java + sql + html + css
-- **backend:** fastapi + rest api + http + rpc
+- **backend:** gin + fastapi + rest api + http + rpc
 - **databases:** postgresql + sqlite + redis
 - **tools:** git + docker + linux + bash
 
